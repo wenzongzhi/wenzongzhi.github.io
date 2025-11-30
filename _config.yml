@@ -1,2 +1,7 @@
-theme: minima
 title: My Blog
+description: "A simple blog powered by Jekyll & GitHub Pages."
+theme: minima
+
+# option：automatic generate Atom RSS
+plugins:
+  - jekyll-feed
